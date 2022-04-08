@@ -69,8 +69,6 @@ footer {
 }
 
 #media-buttons {
-  display: flex;
-  position: space-evenly;
   position: absolute;
   bottom: 40px;
   right: 80px;
